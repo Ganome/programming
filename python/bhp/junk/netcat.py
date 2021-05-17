@@ -91,7 +91,7 @@ def main():
         elif o in ("-t","--target"):
             target = a
         elif o in ("-p","--port"):
-            port = (int)a
+            port = (int)
         else:
             assert False,"Unhandled Option"
     if not listen and len(target) and port > 0:

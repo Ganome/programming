@@ -2,7 +2,7 @@
 import socket
 
 targetHost = "127.0.0.1"
-targetPort = 22
+targetPort = 9999
 print(targetHost)
 
 #create a socket object
