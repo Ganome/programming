@@ -1,1 +1,23 @@
 *.pdf
+# git ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+/python/PCC-python3/.idea/
+/python/PCC-python3/bin/
+/python/PCC-python3/include/
+/python/PCC-python3/lib/
+/python/PCC-python3/lib64/
+/python/PCC-python3/pyvenv.cfg
+/python/PCC-python3/lib64/
+/python/.idea/misc.xml
+/python/.idea/modules.xml
+/python/murach-python/Section3/Chapter18/moreGUI.py
+/python/.idea/inspectionProfiles/profiles_settings.xml
+/python/.idea/inspectionProfiles/Project_Default.xml
+/python/.idea/python.iml
+/python/.idea/vcs.xml
+/python/.idea/workspace.xml
+
