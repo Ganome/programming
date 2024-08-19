@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 tabbyCat = "\tI'm Tabbed in."
 persianCat = "I'm Split\non a line."
 backslashCat = "I'm \\ a \\ cat."

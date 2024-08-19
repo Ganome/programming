@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 myName = "Ganome"
 myAge = 35
 myHeight = 72
