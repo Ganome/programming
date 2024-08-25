@@ -1,0 +1,9 @@
+1. What is the difference between the compiler and the preprocessor?
+
+2. Why is the function main() special?
+
+3. What are the two types of comments, and how do they differ?
+
+4. Can comments be nested?
+
+5. Can comments be longer than one line?
