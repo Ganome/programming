@@ -1,0 +1,15 @@
+1. What is the difference between an interpreter and a compiler?
+Interpreters are Just-in-time compilers that do not make binaries.  They can be edited like editing a script.  Where as a compiler makes binaries that can't be changed without changing the source code and recompiling.
+
+2. How do you compile the source code with your compiler?
+I create a Makefile - that runs the command ```g++ -o PROJECT main.cpp``` creating a binary with the PROJECT name.
+
+3. What does the linker do?
+The linker uses the local system libraries (Nix, Windows) to make system calls to the CPU.
+
+4. What are the steps in the normal development cycle?
+a) brainstorm
+b) roadmap
+c) code
+d) debug
+e) publish
