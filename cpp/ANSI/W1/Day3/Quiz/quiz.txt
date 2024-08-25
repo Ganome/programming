@@ -1,0 +1,34 @@
+1. What is the difference between an integer variable and a floating-point variable?
+
+2. What are the differences between an unsigned short int and a long int?
+
+3. What are the advantages of using a symbolic constant rather than a literal constant?
+
+4. What are the advantages of using the const keyword rather than #define?
+
+5. What makes for a good or bad variable name?
+
+6. Given this enum, what is the value of BLUE?
+enum COLOR { WHITE, BLACK = 100, RED, BLUE, GREEN = 300 };
+
+7. Which of the following variable names are good, which are bad, and which are
+invalid?
+a. Age
+b. !ex
+c. R79J
+d. TotalIncome
+e. __Invalid
+
+--------------------------------------------------------------------------------
+1. What would be the correct variable type in which to store the following
+information?
+a. Your age
+b. The area of your backyard
+c. The number of stars in the galaxy
+d. The average rainfall for the month of January
+
+2. Create good variable names for this information.
+
+3. Declare a constant for pi as 3.14159.
+
+4. Declare a float variable and initialize it using your pi constant.

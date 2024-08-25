@@ -10,8 +10,8 @@
 class HelloTriangleApplication {
 public:
     void run() {
+        initVulkan();
         initWindow();
-        initVulkan();        
         mainLoop();
         cleanup();
     }
@@ -48,6 +48,6 @@ int main() {
         return EXIT_FAILURE;
     }
 
-//    std::cout << "Success!!!";
+    std::cout << "Success!!!\n";
     return EXIT_SUCCESS;
 }
