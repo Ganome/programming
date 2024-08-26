@@ -44,3 +44,14 @@ cpp/ANSI/W1/Day3/3.7/printchars2
 cpp/ANSI/W1/Day3/3.8/enumeratedconstants
 cpp/ANSI/W1/Day3/3.9/enumeratedconstants2
 cpp/ANSI/W1/Day3/Ex.SpecialChars/specialchars
+cpp/ANSI/W1/Day4/4.1/complexexpressions
+cpp/ANSI/W1/Day4/4.2/integerOverflow
+cpp/ANSI/W1/Day4/4.3/prefixPostfixOperators
+cpp/ANSI/W1/Day4/4.4/nestedif
+cpp/ANSI/W1/Day4/4.5/elseif
+cpp/ANSI/W1/Day4/4.6/complexnestedif
+cpp/ANSI/W1/Day4/4.7/brokenbracesif
+cpp/ANSI/W1/Day4/4.8/fixedbracesif
+cpp/ANSI/W1/Day4/Quiz/quiz
+cpp/ANSI/W1/Day4/Ex.LogicalOperators/logicaloperators
+cpp/ANSI/W1/Day4/4.9/conditionaloperator

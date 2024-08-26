@@ -1,0 +1,58 @@
+Quiz
+1. What is an expression?
+
+2. Is x = 5 + 7 an expression? What is its value?
+
+3. What is the value of 201 / 4?
+Depends on the datatype.  If its an INT it would be 50. float would have the decimal. etc...
+4. What is the value of 201 % 4?
+0 because there would be a remainder so its not perfectly divisble
+5. If myAge, a, and b are all int variables, what are their values after
+myAge = 39;
+a = myAge++;
+b = ++myAge;
+
+6. What is the value of 8+2*3?
+14 - follows pemdas?
+7. What is the difference between if(x = 3) and if(x == 3)?
+
+Around page 80
+
+
+8. Do the following values evaluate true or false?
+a. 0
+b. 1
+c. –1
+d. x = 0
+e. x == 0 // assume that x has the value of 0
+
+------------------------------------------------
+Exercises
+1. Write a single if statement that examines two integer variables and changes the
+larger to the smaller, using only one else clause.
+
+2. Examine the following program. Imagine entering three numbers, and write what
+output you expect.
+
+#include <iostream>
+using namespace std;
+int main()
+{
+
+int a, b, c;
+
+cout << “Please enter three numbers\n”;
+cout << “a: “;
+cin >> a;
+cout << “\nb: “;
+cin >> b;
+cout << “\nc: “;
+cin >> c;
+
+if (c = (a-b))
+    cout << “a: “ << a << “ minus b: “ << b << ” equals c: “ << c;
+else
+    cout << “a-b does not equal c: “;
+
+return 0;
+}
