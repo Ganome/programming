@@ -5,6 +5,7 @@
 # exclude patterns (uncomment them if you want to use them):
 # *.[oa]
 # *~
+cpp/hardwaredb
 /python/PCC-python3/.idea/
 /python/PCC-python3/bin/
 /python/PCC-python3/include/
